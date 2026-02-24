@@ -1,0 +1,17 @@
+{
+  "name": "Daily Spin — Album of the Day",
+  "short_name": "Daily Spin",
+  "description": "Two album recommendations every day — one essential classic, one cult deep cut. Rate, collect, discover.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "daily-spin-pwa",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "orientation": "portrait",
+  "categories": ["music", "entertainment"],
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
