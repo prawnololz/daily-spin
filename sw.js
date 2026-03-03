@@ -1,4 +1,4 @@
-const CACHE_NAME = 'dailyspin-v5';
+const CACHE_NAME = 'dailyspin-v6';
 const ASSETS = [
   'index.html',
   'manifest.json',
